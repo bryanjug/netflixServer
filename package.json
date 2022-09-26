@@ -1,0 +1,27 @@
+{
+  "name": "netflixserver",
+  "version": "1.0.0",
+  "description": "This starter kit contains everything you'll need to create your very own Node-based API server, using Express JS and configured to serve JSON files for data.",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "dotenv": "^16.0.2",
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryanjug/netflixServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryanjug/netflixServer/issues"
+  },
+  "homepage": "https://github.com/bryanjug/netflixServer#readme"
+}
