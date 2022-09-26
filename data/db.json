@@ -1,0 +1,291 @@
+{
+  "1": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
+        "id": 616037,
+        "title": "Thor: Love and Thunder",
+        "original_language": "en",
+        "original_title": "Thor: Love and Thunder",
+        "overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+        "poster_path": "/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          14,
+          28,
+          35
+        ],
+        "popularity": 2466.001,
+        "release_date": "2022-07-06",
+        "video": false,
+        "vote_average": 6.793,
+        "vote_count": 3625
+      }
+    ],
+    "total_pages": 1000,
+    "total_results": 20000
+  },
+  "popularTVShows": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
+        "id": 616037,
+        "title": "Thor: Love and Thunder",
+        "original_language": "en",
+        "original_title": "Thor: Love and Thunder",
+        "overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+        "poster_path": "/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          14,
+          28,
+          35
+        ],
+        "popularity": 2466.001,
+        "release_date": "2022-07-06",
+        "video": false,
+        "vote_average": 6.793,
+        "vote_count": 3625
+      }
+    ],
+    "total_pages": 1000,
+    "total_results": 20000
+  },
+  "trendingMovies": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
+        "id": 616037,
+        "title": "Thor: Love and Thunder",
+        "original_language": "en",
+        "original_title": "Thor: Love and Thunder",
+        "overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+        "poster_path": "/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          14,
+          28,
+          35
+        ],
+        "popularity": 2466.001,
+        "release_date": "2022-07-06",
+        "video": false,
+        "vote_average": 6.793,
+        "vote_count": 3625
+      }
+    ],
+    "total_pages": 1000,
+    "total_results": 20000
+  },
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action",
+      "page": 1,
+      "results": [
+        {
+          "adult": false,
+          "backdrop_path": "/hYZ4a0JvPETdfgJJ9ZzyFufq8KQ.jpg",
+          "genre_ids": [
+            28,
+            18,
+            878
+          ],
+          "id": 629176,
+          "original_language": "en",
+          "original_title": "Samaritan",
+          "overview": "Thirteen year old Sam Cleary  suspects that his mysteriously reclusive neighbor Mr. Smith is actually the legendary vigilante Samaritan, who was reported dead 20 years ago. With crime on the rise and the city on the brink of chaos, Sam makes it his mission to coax his neighbor out of hiding to save the city from ruin.",
+          "popularity": 2933.265,
+          "poster_path": "/vwq5iboxYoaSpOmEQrhq9tHicq7.jpg",
+          "release_date": "2022-08-25",
+          "title": "Samaritan",
+          "video": false,
+          "vote_average": 7,
+          "vote_count": 1101
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "new": {
+    "TVShows": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "created_by": [],
+        "episode_run_time": [],
+        "first_air_date": "",
+        "genres": [
+          {
+            "id": 16,
+            "name": "Animation"
+          }
+        ],
+        "homepage": "",
+        "id": 210870,
+        "in_production": true,
+        "languages": [],
+        "last_air_date": "2021-12-05",
+        "last_episode_to_air": {
+          "air_date": "2021-12-05",
+          "episode_number": 1,
+          "id": 3971201,
+          "name": "Episode 1",
+          "overview": "",
+          "production_code": "",
+          "runtime": null,
+          "season_number": 2,
+          "show_id": 210870,
+          "still_path": null,
+          "vote_average": 0,
+          "vote_count": 0
+        },
+        "name": "Kimetsu no Yaiba :  3º Temporada: Yuukaku-hen",
+        "next_episode_to_air": null,
+        "networks": [],
+        "number_of_episodes": 1,
+        "number_of_seasons": 1,
+        "origin_country": [],
+        "original_language": "pt",
+        "original_name": "Kimetsu no Yaiba :  3º Temporada: Yuukaku-hen",
+        "overview": "",
+        "popularity": 0.6,
+        "poster_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "seasons": [
+          {
+            "air_date": "2021-12-04",
+            "episode_count": 1,
+            "id": 309872,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+          }
+        ],
+        "spoken_languages": [],
+        "status": "Returning Series",
+        "tagline": "",
+        "type": "Scripted",
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "movies": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 30,
+        "genres": [
+          {
+            "id": 18,
+            "name": "Drama"
+          },
+          {
+            "id": 35,
+            "name": "Comedy"
+          }
+        ],
+        "homepage": "",
+        "id": 1027811,
+        "imdb_id": null,
+        "original_language": "en",
+        "original_title": "The Last Day on Earth",
+        "overview": "On the last day on earth, Ava accepts an offer from her ex boyfriend, Jesse, to go on a walk.",
+        "popularity": 0,
+        "poster_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "release_date": "",
+        "revenue": 0,
+        "runtime": 20,
+        "spoken_languages": [],
+        "status": "Planned",
+        "tagline": "To a better life...",
+        "title": "The Last Day on Earth",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,1351 @@
+{
+  "1": {
+    "data": {
+      "lastUpdate": "09/25/2022",
+      "new": {
+        "movies": {
+          "adult": false,
+          "backdrop_path": null,
+          "belongs_to_collection": null,
+          "budget": 0,
+          "genres": [
+            {
+              "id": 27,
+              "name": "Horror"
+            },
+            {
+              "id": 35,
+              "name": "Comedy"
+            }
+          ],
+          "homepage": "https://youtu.be/ybYSy2Pf95Y",
+          "id": 1028653,
+          "imdb_id": null,
+          "original_language": "en",
+          "original_title": "Shortest Horror Movie Ever",
+          "overview": "It's that time....",
+          "popularity": 0,
+          "poster_path": null,
+          "production_companies": [
+            {
+              "id": 121966,
+              "logo_path": null,
+              "name": "Crypt TV",
+              "origin_country": "US"
+            }
+          ],
+          "production_countries": [],
+          "release_date": "",
+          "revenue": 0,
+          "runtime": 1,
+          "spoken_languages": [],
+          "status": "Released",
+          "tagline": "(comment if we got you)",
+          "title": "Shortest Horror Movie Ever",
+          "video": false,
+          "vote_average": 0,
+          "vote_count": 0
+        },
+        "TVShows": {
+          "adult": false,
+          "backdrop_path": null,
+          "created_by": [],
+          "episode_run_time": [],
+          "first_air_date": "",
+          "genres": [],
+          "homepage": "",
+          "id": 210991,
+          "in_production": true,
+          "languages": [],
+          "last_air_date": "2022-09-01",
+          "last_episode_to_air": {
+            "air_date": "2022-09-01",
+            "episode_number": 1,
+            "id": 3974626,
+            "name": "Episode 1",
+            "overview": "",
+            "production_code": "",
+            "runtime": null,
+            "season_number": 9,
+            "show_id": 210991,
+            "still_path": null,
+            "vote_average": 0,
+            "vote_count": 0
+          },
+          "name": "최강전사 미니특공대",
+          "next_episode_to_air": null,
+          "networks": [],
+          "number_of_episodes": 1,
+          "number_of_seasons": 1,
+          "origin_country": [
+            "KR"
+          ],
+          "original_language": "ko",
+          "original_name": "최강전사 미니특공대",
+          "overview": "",
+          "popularity": 0,
+          "poster_path": null,
+          "production_companies": [],
+          "production_countries": [],
+          "seasons": [
+            {
+              "air_date": "2022-09-01",
+              "episode_count": 1,
+              "id": 310137,
+              "name": "Season 9",
+              "overview": "",
+              "poster_path": null,
+              "season_number": 9
+            }
+          ],
+          "spoken_languages": [],
+          "status": "Returning Series",
+          "tagline": "",
+          "type": "Scripted",
+          "vote_average": 0,
+          "vote_count": 0
+        }
+      },
+      "popularMovies": {
+        "page": 1,
+        "results": [
+          {
+            "adult": false,
+            "backdrop_path": "/2RSirqZG949GuRwN38MYCIGG4Od.jpg",
+            "genre_ids": [
+              53
+            ],
+            "id": 985939,
+            "original_language": "en",
+            "original_title": "Fall",
+            "overview": "For best friends Becky and Hunter, life is all about conquering fears and pushing limits. But after they climb 2,000 feet to the top of a remote, abandoned radio tower, they find themselves stranded with no way down. Now Becky and Hunter’s expert climbing skills will be put to the ultimate test as they desperately fight to survive the elements, a lack of supplies, and vertigo-inducing heights",
+            "popularity": 7376.957,
+            "poster_path": "/spCAxD99U1A6jsiePFoqdEcY0dG.jpg",
+            "release_date": "2022-08-11",
+            "title": "Fall",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 912
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/nnUQqlVZeEGuCRx8SaoCU4XVHJN.jpg",
+            "genre_ids": [
+              14,
+              12,
+              10751
+            ],
+            "id": 532639,
+            "original_language": "en",
+            "original_title": "Pinocchio",
+            "overview": "A wooden puppet embarks on a thrilling adventure to become a real boy.",
+            "popularity": 5219.593,
+            "poster_path": "/h32gl4a3QxQWNiNaR4Fc1uvLBkV.jpg",
+            "release_date": "2022-09-07",
+            "title": "Pinocchio",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 663
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/5GA3vV1aWWHTSDO5eno8V5zDo8r.jpg",
+            "genre_ids": [
+              27,
+              53
+            ],
+            "id": 760161,
+            "original_language": "en",
+            "original_title": "Orphan: First Kill",
+            "overview": "After escaping from an Estonian psychiatric facility, Leena Klammer travels to America by impersonating Esther, the missing daughter of a wealthy family. But when her mask starts to slip, she is put against a mother who will protect her family from the murderous “child” at any cost.",
+            "popularity": 4486.157,
+            "poster_path": "/wSqAXL1EHVJ3MOnJzMhUngc8gFs.jpg",
+            "release_date": "2022-07-27",
+            "title": "Orphan: First Kill",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 681
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/1n7ZGr6WeDOW4rFiQKmFel8baWH.jpg",
+            "genre_ids": [
+              12,
+              18,
+              27
+            ],
+            "id": 760741,
+            "original_language": "en",
+            "original_title": "Beast",
+            "overview": "A recently widowed man and his two teenage daughters travel to a game reserve in South Africa. However, their journey of healing soon turns into a fight for survival when a bloodthirsty lion starts to stalk them.",
+            "popularity": 4257.378,
+            "poster_path": "/iRV0IB5xQeOymuGGUBarTecQVAl.jpg",
+            "release_date": "2022-08-11",
+            "title": "Beast",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 443
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/hYZ4a0JvPETdfgJJ9ZzyFufq8KQ.jpg",
+            "genre_ids": [
+              28,
+              18,
+              878
+            ],
+            "id": 629176,
+            "original_language": "en",
+            "original_title": "Samaritan",
+            "overview": "Thirteen year old Sam Cleary  suspects that his mysteriously reclusive neighbor Mr. Smith is actually the legendary vigilante Samaritan, who was reported dead 20 years ago. With crime on the rise and the city on the brink of chaos, Sam makes it his mission to coax his neighbor out of hiding to save the city from ruin.",
+            "popularity": 3113.559,
+            "poster_path": "/vwq5iboxYoaSpOmEQrhq9tHicq7.jpg",
+            "release_date": "2022-08-25",
+            "title": "Samaritan",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 1112
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/i0Y0wP8H6SRgjr6QmuwbtQbS24D.jpg",
+            "genre_ids": [
+              28,
+              18
+            ],
+            "id": 579974,
+            "original_language": "te",
+            "original_title": "రౌద్రం రణం రుధిరం",
+            "overview": "A fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s.",
+            "popularity": 3027.804,
+            "poster_path": "/wE0I6efAW4cDDmZQWtwZMOW44EJ.jpg",
+            "release_date": "2022-03-24",
+            "title": "RRR",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 367
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
+            "genre_ids": [
+              14,
+              28,
+              35
+            ],
+            "id": 616037,
+            "original_language": "en",
+            "original_title": "Thor: Love and Thunder",
+            "overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+            "popularity": 2715.327,
+            "poster_path": "/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+            "release_date": "2022-07-06",
+            "title": "Thor: Love and Thunder",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 3683
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/ugS5FVfCI3RV0ZwZtBV3HAV75OX.jpg",
+            "genre_ids": [
+              16,
+              878,
+              28
+            ],
+            "id": 610150,
+            "original_language": "ja",
+            "original_title": "ドラゴンボール超 スーパーヒーロー",
+            "overview": "The Red Ribbon Army, an evil organization that was once destroyed by Goku in the past, has been reformed by a group of people who have created new and mightier Androids, Gamma 1 and Gamma 2, and seek vengeance against Goku and his family.",
+            "popularity": 2674.798,
+            "poster_path": "/rugyJdeoJm7cSJL1q4jBpTNbxyU.jpg",
+            "release_date": "2022-06-11",
+            "title": "Dragon Ball Super: Super Hero",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 1710
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/geYUecpFI2AonDLhjyK9zoVFcMv.jpg",
+            "genre_ids": [
+              16,
+              28,
+              14
+            ],
+            "id": 810693,
+            "original_language": "ja",
+            "original_title": "劇場版 呪術廻戦 0",
+            "overview": "Yuta Okkotsu is a nervous high school student who is suffering from a serious problem—his childhood friend Rika has turned into a curse and won't leave him alone. Since Rika is no ordinary curse, his plight is noticed by Satoru Gojo, a teacher at Jujutsu High, a school where fledgling exorcists learn how to combat curses. Gojo convinces Yuta to enroll, but can he learn enough in time to confront the curse that haunts him?",
+            "popularity": 2594.609,
+            "poster_path": "/v37lBoMW0IX6eBRqX5esITkEaVN.jpg",
+            "release_date": "2021-12-24",
+            "title": "Jujutsu Kaisen 0",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 412
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/yaze6df9AMIA9oeDEbIZ4zOTRCJ.jpg",
+            "genre_ids": [
+              14,
+              28,
+              12
+            ],
+            "id": 960700,
+            "original_language": "ja",
+            "original_title": "鋼の錬金術師 完結編 復讐者スカー",
+            "overview": "In this sequel to the 2017 live-action netflix Adaptation of the manga the Elric brothers meet their toughest opponent yet — a lone serial killer with a large scar on his forehead.",
+            "popularity": 2229.04,
+            "poster_path": "/c5OwwBNyJkwyroIOIJL9IiRjydR.jpg",
+            "release_date": "2022-05-20",
+            "title": "Fullmetal Alchemist: The Revenge of Scar",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 108
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/7ZO9yoEU2fAHKhmJWfAc2QIPWJg.jpg",
+            "genre_ids": [
+              53,
+              28,
+              878
+            ],
+            "id": 766507,
+            "original_language": "en",
+            "original_title": "Prey",
+            "overview": "When danger threatens her camp, the fierce and highly skilled Comanche warrior Naru sets out to protect her people. But the prey she stalks turns out to be a highly evolved alien predator with a technically advanced arsenal.",
+            "popularity": 2126.289,
+            "poster_path": "/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg",
+            "release_date": "2022-08-02",
+            "title": "Prey",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 3995
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/qaTzVAW1u16WFNsepjCrilBuInc.jpg",
+            "genre_ids": [
+              16,
+              28,
+              12
+            ],
+            "id": 539681,
+            "original_language": "en",
+            "original_title": "DC League of Super-Pets",
+            "overview": "When Superman and the rest of the Justice League are kidnapped, Krypto the Super-Dog must convince a rag-tag shelter pack - Ace the hound, PB the potbellied pig, Merton the turtle and Chip the squirrel - to master their own newfound powers and help him rescue the superheroes.",
+            "popularity": 2050.554,
+            "poster_path": "/r7XifzvtezNt31ypvsmb6Oqxw49.jpg",
+            "release_date": "2022-07-27",
+            "title": "DC League of Super-Pets",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 625
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/skL7c4ZhZqo1IFbMcHNrol4fvkc.jpg",
+            "genre_ids": [
+              28,
+              80,
+              53
+            ],
+            "id": 921360,
+            "original_language": "en",
+            "original_title": "Wire Room",
+            "overview": "New recruit Justin Rosa must monitor arms-smuggling cartel member Eddie Flynn — and keep him alive at all costs. When a SWAT team descends on Flynn’s home, Rosa breaks protocol and contacts the gangster directly to save his life. As gunmen break into the Wire Room and chaos erupts, Mueller and Rosa make a final, desperate stand against the corrupt agents and officials who seek to destroy evidence and kill them both.",
+            "popularity": 1995.917,
+            "poster_path": "/b9ykj4v8ykjRoGB7SpI1OuxblNU.jpg",
+            "release_date": "2022-09-02",
+            "title": "Wire Room",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 74
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/3PieOs1t6dPHWlgvX3XoqTIQLqN.jpg",
+            "genre_ids": [
+              12,
+              28,
+              878
+            ],
+            "id": 507086,
+            "original_language": "en",
+            "original_title": "Jurassic World Dominion",
+            "overview": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history’s most fearsome creatures.",
+            "popularity": 1934.132,
+            "poster_path": "/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg",
+            "release_date": "2022-06-01",
+            "title": "Jurassic World Dominion",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 3433
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/rHzoz94bRfyfNLjiIB26Wt5KDHE.jpg",
+            "genre_ids": [
+              28,
+              80,
+              35,
+              12
+            ],
+            "id": 773867,
+            "original_language": "ko",
+            "original_title": "서울대작전",
+            "overview": "Chasing speed, dreams and money, a team of drivers get involved in the slush fund investigation of a powerful figure during the 1988 Seoul Olympics.",
+            "popularity": 1867.758,
+            "poster_path": "/ffX0TL3uKerLXACkuZGWhAPMbAq.jpg",
+            "release_date": "2022-08-26",
+            "title": "Seoul Vibe",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 76
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/r79KH5uKwKyfsgHSiXrrsSY8UfN.jpg",
+            "genre_ids": [
+              53
+            ],
+            "id": 781099,
+            "original_language": "fr",
+            "original_title": "Inexorable",
+            "overview": "Desperately seeking inspiration for the follow-up novel to his bestseller \"Inexorable\", Marcel Bellmer moves in his wife's old family mansion with his family.",
+            "popularity": 1852.737,
+            "poster_path": "/iiclsw6zgRJz5D5Cc6sn4Cs9GQo.jpg",
+            "release_date": "2022-04-06",
+            "title": "Inexorable",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 20
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/odJ4hx6g6vBt4lBWKFD1tI8WS4x.jpg",
+            "genre_ids": [
+              28,
+              18
+            ],
+            "id": 361743,
+            "original_language": "en",
+            "original_title": "Top Gun: Maverick",
+            "overview": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+            "popularity": 1849.891,
+            "poster_path": "/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+            "release_date": "2022-05-24",
+            "title": "Top Gun: Maverick",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 3913
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/nmGWzTLMXy9x7mKd8NKPLmHtWGa.jpg",
+            "genre_ids": [
+              16,
+              12,
+              35,
+              14
+            ],
+            "id": 438148,
+            "original_language": "en",
+            "original_title": "Minions: The Rise of Gru",
+            "overview": "A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.",
+            "popularity": 1815.117,
+            "poster_path": "/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",
+            "release_date": "2022-06-29",
+            "title": "Minions: The Rise of Gru",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 2016
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/5luJmy21N3bYCkjzRHsoZfvLtPP.jpg",
+            "genre_ids": [
+              53,
+              18,
+              80
+            ],
+            "id": 773975,
+            "original_language": "en",
+            "original_title": "End of the Road",
+            "overview": "Recently widowed mom Brenda fights to protect her family during a harrowing road trip when a murder and a missing bag of cash plunge them into danger.",
+            "popularity": 1687.581,
+            "poster_path": "/tLFIMuPWJHlTJ6TN8HCOiSD6SdA.jpg",
+            "release_date": "2022-09-09",
+            "title": "End of the Road",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 150
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/wcC7kCICL6x6zHUlUyNp9pWoqW1.jpg",
+            "genre_ids": [
+              28,
+              12,
+              14,
+              878
+            ],
+            "id": 19995,
+            "original_language": "en",
+            "original_title": "Avatar",
+            "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+            "popularity": 1623.562,
+            "poster_path": "/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+            "release_date": "2009-12-10",
+            "title": "Avatar",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 26112
+          }
+        ],
+        "total_pages": 35221,
+        "total_results": 704405
+      },
+      "popularTVShows": {
+        "page": 1,
+        "results": [
+          {
+            "backdrop_path": "/Aa9TLpNpBMyRkD8sPJ7ACKLjt0l.jpg",
+            "first_air_date": "2022-08-21",
+            "genre_ids": [
+              10765,
+              18,
+              10759
+            ],
+            "id": 94997,
+            "name": "House of the Dragon",
+            "origin_country": [
+              "US"
+            ],
+            "original_language": "en",
+            "original_name": "House of the Dragon",
+            "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+            "popularity": 6096.153,
+            "poster_path": "/z2yahl2uefxDCl0nogcRBstwruJ.jpg",
+            "vote_average": 8.6,
+            "vote_count": 1365
+          },
+          {
+            "backdrop_path": "/pdfCr8W0wBCpdjbZXSxnKhZtosP.jpg",
+            "first_air_date": "2022-09-01",
+            "genre_ids": [
+              10765,
+              10759,
+              18
+            ],
+            "id": 84773,
+            "name": "The Lord of the Rings: The Rings of Power",
+            "origin_country": [
+              "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Lord of the Rings: The Rings of Power",
+            "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+            "popularity": 5674.51,
+            "poster_path": "/suyNxglk17Cpk8rCM2kZgqKdftk.jpg",
+            "vote_average": 7.7,
+            "vote_count": 759
+          },
+          {
+            "backdrop_path": "/9GvhICFMiRQA82vS6ydkXxeEkrd.jpg",
+            "first_air_date": "2022-08-18",
+            "genre_ids": [
+              35,
+              10765
+            ],
+            "id": 92783,
+            "name": "She-Hulk: Attorney at Law",
+            "origin_country": [
+              "US"
+            ],
+            "original_language": "en",
+            "original_name": "She-Hulk: Attorney at Law",
+            "overview": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk.",
+            "popularity": 3744.36,
+            "poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
+            "vote_average": 7.2,
+            "vote_count": 788
+          },
+          {
+            "backdrop_path": "/zymbuoBoL1i94xAOzVJF6IuWLfD.jpg",
+            "first_air_date": "2018-05-02",
+            "genre_ids": [
+              10759,
+              18,
+              35
+            ],
+            "id": 77169,
+            "name": "Cobra Kai",
+            "origin_country": [
+              "US"
+            ],
+            "original_language": "en",
+            "original_name": "Cobra Kai",
+            "overview": "This Karate Kid sequel series picks up 30 years after the events of the 1984 All Valley Karate Tournament and finds Johnny Lawrence on the hunt for redemption by reopening the infamous Cobra Kai karate dojo. This reignites his old rivalry with the successful Daniel LaRusso, who has been working to maintain the balance in his life without mentor Mr. Miyagi.",
+            "popularity": 2006.304,
+            "poster_path": "/6POBWybSBDBKjSs1VAQcnQC1qyt.jpg",
+            "vote_average": 8.2,
+            "vote_count": 5051
+          },
+          {
+            "backdrop_path": "/uGy4DCmM33I7l86W7iCskNkvmLD.jpg",
+            "first_air_date": "2013-12-02",
+            "genre_ids": [
+              16,
+              35,
+              10765,
+              10759
+            ],
+            "id": 60625,
+            "name": "Rick and Morty",
+            "origin_country": [
+              "US"
+            ],
+            "original_language": "en",
+            "original_name": "Rick and Morty",
+            "overview": "Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
+            "popularity": 1751.049,
+            "poster_path": "/cvhNj9eoRBe5SxjCbQTkh05UP5K.jpg",
+            "vote_average": 8.7,
+            "vote_count": 7032
+          },
+          {
+            "backdrop_path": "/rIe3PnM6S7IBUmvNwDkBMX0i9EZ.jpg",
+            "first_air_date": "2011-04-17",
+            "genre_ids": [
+              10765,
+              18,
+              10759
+            ],
+            "id": 1399,
+            "name": "Game of Thrones",
+            "origin_country": [
+              "US"
+            ],
+            "original_language": "en",
+            "original_name": "Game of Thrones",
+            "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+            "popularity": 1232.078,
+            "poster_path": "/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+            "vote_average": 8.4,
+            "vote_count": 19198
+          },
+          {
+            "backdrop_path": "/fFeIBjX7Rk6eoEwGMq9jugrV2yP.jpg",
+            "first_air_date": "2022-09-15",
+            "genre_ids": [
+              18,
+              10765
+            ],
+            "id": 125940,
+            "name": "Vampire Academy",
+            "origin_country": [
+              "US"
+            ],
+            "original_language": "en",
+            "original_name": "Vampire Academy",
+            "overview": "In a world of privilege and glamour, two young women’s friendship transcends their strikingly different classes as they prepare to complete their education and enter royal vampire society. Based on the young adult novels by Richelle Mead.",
+            "popularity": 1119.542,
+            "poster_path": "/fVwWkJBbOtxM7VKg7PS1IkjYpQc.jpg",
+            "vote_average": 7,
+            "vote_count": 21
+          },
+          {
+            "backdrop_path": "/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg",
+            "first_air_date": "1989-12-17",
+            "genre_ids": [
+              10751,
+              16,
+              35
+            ],
+            "id": 456,
+            "name": "The Simpsons",
+            "origin_country": [
+              "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Simpsons",
+            "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+            "popularity": 902.717,
+            "poster_path": "/zI3E2a3WYma5w8emI35mgq5Iurx.jpg",
+            "vote_average": 8,
+            "vote_count": 8226
+          },
+          {
+            "backdrop_path": "/xZUZ9i6vVayjyhR1vRo9Bjku4h.jpg",
+            "first_air_date": "2016-01-25",
+            "genre_ids": [
+              80,
+              10765
+            ],
+            "id": 63174,
+            "name": "Lucifer",
+            "origin_country": [
+              "US"
+            ],
+            "original_language": "en",
+            "original_name": "Lucifer",
+            "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+            "popularity": 873.886,
+            "poster_path": "/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+            "vote_average": 8.5,
+            "vote_count": 12482
+          },
+          {
+            "backdrop_path": "/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+            "first_air_date": "2016-07-15",
+            "genre_ids": [
+              18,
+              10765,
+              9648
+            ],
+            "id": 66732,
+            "name": "Stranger Things",
+            "origin_country": [
+              "US"
+            ],
+            "original_language": "en",
+            "original_name": "Stranger Things",
+            "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+            "popularity": 858.681,
+            "poster_path": "/49WJfeN0moxb9IPfGn8AIqMGskD.jpg",
+            "vote_average": 8.6,
+            "vote_count": 13708
+          },
+          {
+            "backdrop_path": "/7J5d7K4JBDZ4IDODNX3THLggtM5.jpg",
+            "first_air_date": "2005-03-27",
+            "genre_ids": [
+              18
+            ],
+            "id": 1416,
+            "name": "Grey's Anatomy",
+            "origin_country": [
+              "US"
+            ],
+            "original_language": "en",
+            "original_name": "Grey's Anatomy",
+            "overview": "Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.",
+            "popularity": 828.801,
+            "poster_path": "/daSFbrt8QCXV2hSwB0hqYjbj681.jpg",
+            "vote_average": 8.3,
+            "vote_count": 8426
+          },
+          {
+            "backdrop_path": "/kCx6Ij7hLRnfHbI93UOZxiAAUk3.jpg",
+            "first_air_date": "2013-09-12",
+            "genre_ids": [
+              18,
+              80
+            ],
+            "id": 60574,
+            "name": "Peaky Blinders",
+            "origin_country": [
+              "GB"
+            ],
+            "original_language": "en",
+            "original_name": "Peaky Blinders",
+            "overview": "A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+            "popularity": 794.036,
+            "poster_path": "/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
+            "vote_average": 8.6,
+            "vote_count": 7441
+          },
+          {
+            "backdrop_path": "/eqhKMZTLcieAvoH6CBqknTTfNby.jpg",
+            "first_air_date": "2022-08-05",
+            "genre_ids": [
+              10765,
+              18
+            ],
+            "id": 90802,
+            "name": "The Sandman",
+            "origin_country": [
+              "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Sandman",
+            "overview": "After years of imprisonment, Morpheus — the King of Dreams — embarks on a journey across worlds to find what was stolen from him and restore his power.",
+            "popularity": 785.963,
+            "poster_path": "/q54qEgagGOYCq5D1903eBVMNkbo.jpg",
+            "vote_average": 8.2,
+            "vote_count": 947
+          },
+          {
+            "backdrop_path": "/o8zk3QmHYMSC7UiJgFk81OFF1sc.jpg",
+            "first_air_date": "2022-08-22",
+            "genre_ids": [
+              10766,
+              18
+            ],
+            "id": 204095,
+            "name": "Mar do Sertão",
+            "origin_country": [
+              "BR"
+            ],
+            "original_language": "pt",
+            "original_name": "Mar do Sertão",
+            "overview": "",
+            "popularity": 783.407,
+            "poster_path": "/ixgnqO8xhFMb1zr8RRFsyeZ9CdD.jpg",
+            "vote_average": 5.8,
+            "vote_count": 8
+          },
+          {
+            "backdrop_path": "/ic7YfRS52N3m4oalxoOIT665C33.jpg",
+            "first_air_date": "2020-07-08",
+            "genre_ids": [
+              18,
+              35
+            ],
+            "id": 104877,
+            "name": "Love Is In The Air",
+            "origin_country": [
+              "TR"
+            ],
+            "original_language": "tr",
+            "original_name": "Sen Çal Kapımı",
+            "overview": "Eda, who ties all her hopes to her education, confronts Serkan Bolat, who cuts off her international education scholarship and leaves her with high school diploma. Serkan Bolat offers Eda to give her scholarship back if she pretends to be his fiance for two months. Although Eda rejects the offer of this man as she hates him, she has to accept it when the conditions change. While pretending to be engaged, Serkan and Eda begin to experience a passionate, challenging relationship that will make them forget all they know right. Because love is difficult. And that's why it's amazing.",
+            "popularity": 774.595,
+            "poster_path": "/bE71f9A3eztjcd5JT3MmHB8MbzA.jpg",
+            "vote_average": 8.2,
+            "vote_count": 2633
+          },
+          {
+            "backdrop_path": "/zaulpwl355dlKkvtAiSBE5LaoWA.jpg",
+            "first_air_date": "2010-10-31",
+            "genre_ids": [
+              10759,
+              18,
+              10765
+            ],
+            "id": 1402,
+            "name": "The Walking Dead",
+            "origin_country": [
+              "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Walking Dead",
+            "overview": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
+            "popularity": 762.886,
+            "poster_path": "/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg",
+            "vote_average": 8.1,
+            "vote_count": 13663
+          },
+          {
+            "backdrop_path": "/xlKKD1TXJvh0YYlVPqqQ3g3ZUjM.jpg",
+            "first_air_date": "2018-07-01",
+            "genre_ids": [
+              16,
+              10759,
+              10765
+            ],
+            "id": 80020,
+            "name": "Super Dragon Ball Heroes",
+            "origin_country": [
+              "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "スーパードラゴンボールヒーローズ",
+            "overview": "Trunks returns from the future to train with Goku and Vegeta. However, it disappears without warning. Then the mysterious Fu bursts in, telling them that Trunks has been imprisoned in the Prison Planet, a mysterious complex in an unknown place in the universes. The group seeks the dragon balls to free Trunks, but an endless battle awaits them! Will Goku and the others rescue Trunks and escape the Prison Planet?",
+            "popularity": 748.195,
+            "poster_path": "/8jq6xv5c1WK7KAPOXCsodm8eUxp.jpg",
+            "vote_average": 7.6,
+            "vote_count": 2765
+          },
+          {
+            "backdrop_path": "/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
+            "first_air_date": "2022-09-13",
+            "genre_ids": [
+              16,
+              10759,
+              10765
+            ],
+            "id": 105248,
+            "name": "Cyberpunk: Edgerunners",
+            "origin_country": [
+              "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "サイバーパンク：エッジランナーズ",
+            "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
+            "popularity": 732.226,
+            "poster_path": "/4CgMd3q8vy4bodVqS2Mp9epORmU.jpg",
+            "vote_average": 8.7,
+            "vote_count": 214
+          },
+          {
+            "backdrop_path": "/68sanslplXryiJWzv0uMuXjJBmB.jpg",
+            "first_air_date": "2019-07-25",
+            "genre_ids": [
+              10765,
+              10759
+            ],
+            "id": 76479,
+            "name": "The Boys",
+            "origin_country": [
+              "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Boys",
+            "overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+            "popularity": 689.397,
+            "poster_path": "/stTEycfG9928HYGEISBFaG1ngjM.jpg",
+            "vote_average": 8.5,
+            "vote_count": 7433
+          },
+          {
+            "backdrop_path": "/iV0B1eQHEh5vazHikfAx8OuSrCC.jpg",
+            "first_air_date": "2022-09-08",
+            "genre_ids": [
+              9648,
+              10765
+            ],
+            "id": 128384,
+            "name": "Tierra Incognita",
+            "origin_country": [
+              "AR"
+            ],
+            "original_language": "es",
+            "original_name": "Tierra incógnita",
+            "overview": "Eric returns to Cape Qwert to solve the mystery of his parents' disappearance. Back in this town, he will meet friends and foes and will have to unveil the mysteries of the town's horror-themed amusement park.",
+            "popularity": 678.752,
+            "poster_path": "/l07AXl7V2GfOy4zeiFQ77CoyHJv.jpg",
+            "vote_average": 7.7,
+            "vote_count": 26
+          }
+        ],
+        "total_pages": 6862,
+        "total_results": 137237
+      },
+      "trendingMovies": {
+        "page": 1,
+        "results": [
+          {
+            "adult": false,
+            "backdrop_path": "/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
+            "id": 616037,
+            "title": "Thor: Love and Thunder",
+            "original_language": "en",
+            "original_title": "Thor: Love and Thunder",
+            "overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+            "poster_path": "/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+              14,
+              28,
+              35
+            ],
+            "popularity": 2715.327,
+            "release_date": "2022-07-06",
+            "video": false,
+            "vote_average": 6.78,
+            "vote_count": 3716
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/odJ4hx6g6vBt4lBWKFD1tI8WS4x.jpg",
+            "id": 361743,
+            "title": "Top Gun: Maverick",
+            "original_language": "en",
+            "original_title": "Top Gun: Maverick",
+            "overview": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+            "poster_path": "/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+              28,
+              18
+            ],
+            "popularity": 1849.891,
+            "release_date": "2022-05-24",
+            "video": false,
+            "vote_average": 8.358,
+            "vote_count": 3944
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/nnUQqlVZeEGuCRx8SaoCU4XVHJN.jpg",
+            "id": 532639,
+            "title": "Pinocchio",
+            "original_language": "en",
+            "original_title": "Pinocchio",
+            "overview": "A wooden puppet embarks on a thrilling adventure to become a real boy.",
+            "poster_path": "/h32gl4a3QxQWNiNaR4Fc1uvLBkV.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+              14,
+              12,
+              10751
+            ],
+            "popularity": 5219.593,
+            "release_date": "2022-09-07",
+            "video": false,
+            "vote_average": 6.786,
+            "vote_count": 682
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/geYUecpFI2AonDLhjyK9zoVFcMv.jpg",
+            "id": 810693,
+            "title": "Jujutsu Kaisen 0",
+            "original_language": "ja",
+            "original_title": "劇場版 呪術廻戦 0",
+            "overview": "Yuta Okkotsu is a nervous high school student who is suffering from a serious problem—his childhood friend Rika has turned into a curse and won't leave him alone. Since Rika is no ordinary curse, his plight is noticed by Satoru Gojo, a teacher at Jujutsu High, a school where fledgling exorcists learn how to combat curses. Gojo convinces Yuta to enroll, but can he learn enough in time to confront the curse that haunts him?",
+            "poster_path": "/v37lBoMW0IX6eBRqX5esITkEaVN.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+              16,
+              28,
+              14
+            ],
+            "popularity": 2594.609,
+            "release_date": "2021-12-24",
+            "video": false,
+            "vote_average": 8.203,
+            "vote_count": 436
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/doKogHyd0BFlEwQClE3B0opnbdN.jpg",
+            "id": 429473,
+            "title": "Lou",
+            "original_language": "en",
+            "original_title": "Lou",
+            "overview": "A young girl is kidnapped during a powerful storm. Her mother joins forces with her mysterious neighbour to set off in pursuit of the kidnapper. Their journey will test their limits and expose the dark secrets of their past.",
+            "poster_path": "/djM2s4wSaATn4jVB33cV05PEbV7.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+              28,
+              53
+            ],
+            "popularity": 101.706,
+            "release_date": "2022-09-23",
+            "video": false,
+            "vote_average": 6.33,
+            "vote_count": 56
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/2k9tBql5GYH328Krj66tDT9LtFZ.jpg",
+            "id": 760741,
+            "title": "Beast",
+            "original_language": "en",
+            "original_title": "Beast",
+            "overview": "A recently widowed man and his two teenage daughters travel to a game reserve in South Africa. However, their journey of healing soon turns into a fight for survival when a bloodthirsty lion starts to stalk them.",
+            "poster_path": "/iRV0IB5xQeOymuGGUBarTecQVAl.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+              12,
+              18,
+              27
+            ],
+            "popularity": 4257.378,
+            "release_date": "2022-08-11",
+            "video": false,
+            "vote_average": 7.107,
+            "vote_count": 458
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/mKyGisiT2ZrfKC9Bb7yK9lO7T8q.jpg",
+            "id": 556694,
+            "title": "Three Thousand Years of Longing",
+            "original_language": "en",
+            "original_title": "Three Thousand Years of Longing",
+            "overview": "A solitary scholar discovers an ancient bottle while on a trip to Istanbul and unleashes a djinn who offers her three wishes. Filled with reluctance, she is unable to come up with one until his stories spark in her a desire to be loved.",
+            "poster_path": "/8q6BrcwGEBGbtwtbCUVKEt2lmEy.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+              14,
+              18,
+              10749
+            ],
+            "popularity": 255.472,
+            "release_date": "2022-08-24",
+            "video": false,
+            "vote_average": 6.928,
+            "vote_count": 257
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/aCaqCvYn48b3lfGKGnUdVAE1yeB.jpg",
+            "id": 814800,
+            "title": "Goodnight Mommy",
+            "original_language": "en",
+            "original_title": "Goodnight Mommy",
+            "overview": "When twin brothers arrive home to find their mother’s demeanor altered and face covered in surgical bandages, they begin to suspect the woman beneath the gauze might not be their mother.",
+            "poster_path": "/oHhD5jD4S5ElPNNFCDKXJAzMZ5h.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+              27,
+              18,
+              53
+            ],
+            "popularity": 649.799,
+            "release_date": "2022-09-16",
+            "video": false,
+            "vote_average": 6.219,
+            "vote_count": 96
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/yWRvAfZmbzk61REYod4WQACDhRj.jpg",
+            "id": 762968,
+            "title": "Do Revenge",
+            "original_language": "en",
+            "original_title": "Do Revenge",
+            "overview": "A dethroned queen bee at a posh private high school strikes a secret deal with an unassuming new student to enact revenge on one another’s enemies.",
+            "poster_path": "/akIjKJDHcVN4bzifcEarKVPNpoa.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+              35
+            ],
+            "popularity": 1004.648,
+            "release_date": "2022-09-14",
+            "video": false,
+            "vote_average": 6.996,
+            "vote_count": 246
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/ghsPsvM0sEztdNT4kUlTsBF2LEF.jpg",
+            "id": 852046,
+            "title": "Athena",
+            "original_language": "fr",
+            "original_title": "Athena",
+            "overview": "Hours after the tragic death of their youngest brother in unexplained circumstances, three siblings have their lives thrown into chaos.",
+            "poster_path": "/fenNPxVF5ERy0CSyVruuEg959Hg.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+              18,
+              28,
+              53
+            ],
+            "popularity": 26.289,
+            "release_date": "2022-09-09",
+            "video": false,
+            "vote_average": 6.667,
+            "vote_count": 66
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/2RSirqZG949GuRwN38MYCIGG4Od.jpg",
+            "id": 985939,
+            "title": "Fall",
+            "original_language": "en",
+            "original_title": "Fall",
+            "overview": "For best friends Becky and Hunter, life is all about conquering fears and pushing limits. But after they climb 2,000 feet to the top of a remote, abandoned radio tower, they find themselves stranded with no way down. Now Becky and Hunter’s expert climbing skills will be put to the ultimate test as they desperately fight to survive the elements, a lack of supplies, and vertigo-inducing heights",
+            "poster_path": "/spCAxD99U1A6jsiePFoqdEcY0dG.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+              53
+            ],
+            "popularity": 7376.957,
+            "release_date": "2022-08-11",
+            "video": false,
+            "vote_average": 7.452,
+            "vote_count": 947
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/xVbppM1xgbskOKgOuV8fbWBWHtt.jpg",
+            "id": 762504,
+            "title": "Nope",
+            "original_language": "en",
+            "original_title": "Nope",
+            "overview": "Residents in a lonely gulch of inland California bear witness to an uncanny, chilling discovery.",
+            "poster_path": "/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+              27,
+              9648,
+              878,
+              53
+            ],
+            "popularity": 1081.283,
+            "release_date": "2022-07-20",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 1568
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/nmGWzTLMXy9x7mKd8NKPLmHtWGa.jpg",
+            "id": 438148,
+            "title": "Minions: The Rise of Gru",
+            "original_language": "en",
+            "original_title": "Minions: The Rise of Gru",
+            "overview": "A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.",
+            "poster_path": "/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+              16,
+              12,
+              35,
+              14
+            ],
+            "popularity": 1815.117,
+            "release_date": "2022-06-29",
+            "video": false,
+            "vote_average": 7.606,
+            "vote_count": 2025
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/7Y3LdmsZukXhmwxtO0UF95BFBTt.jpg",
+            "id": 682507,
+            "title": "Where the Crawdads Sing",
+            "original_language": "en",
+            "original_title": "Where the Crawdads Sing",
+            "overview": "Abandoned by her family, Kya raises herself all alone in the marshes outside of her small town. When her former boyfriend is found dead, Kya is instantly branded by the local townspeople and law enforcement as the prime suspect for his murder.",
+            "poster_path": "/6h5OCqRnWH7Dcm4IeP4JypBdtuI.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+              18,
+              9648,
+              53
+            ],
+            "popularity": 420.762,
+            "release_date": "2022-07-15",
+            "video": false,
+            "vote_average": 7.766,
+            "vote_count": 378
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/yo0qfH2dQGGMxkfivdkz5zxVatD.jpg",
+            "id": 830788,
+            "title": "The Invitation",
+            "original_language": "en",
+            "original_title": "The Invitation",
+            "overview": "After the death of her mother, Evie is approached by an unknown cousin who invites her to a lavish wedding in the English countryside. Soon, she realizes a gothic conspiracy is afoot and must fight for survival as she uncovers twisted secrets in her family’s history.",
+            "poster_path": "/jcTq6gIskCsHlKDvCKKouEfiU66.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+              27,
+              53
+            ],
+            "popularity": 178.574,
+            "release_date": "2022-08-24",
+            "video": false,
+            "vote_average": 6.345,
+            "vote_count": 114
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/9hk5iiycq7ukRAAXQiJT9HZX3SX.jpg",
+            "id": 507086,
+            "title": "Jurassic World Dominion",
+            "original_language": "en",
+            "original_title": "Jurassic World Dominion",
+            "overview": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history’s most fearsome creatures.",
+            "poster_path": "/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+              12,
+              28,
+              878
+            ],
+            "popularity": 1934.132,
+            "release_date": "2022-06-01",
+            "video": false,
+            "vote_average": 7.052,
+            "vote_count": 3445
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/rwgmDkIEv8VjAsWx25ottJrFvpO.jpg",
+            "id": 744276,
+            "title": "After Ever Happy",
+            "original_language": "en",
+            "original_title": "After Ever Happy",
+            "overview": "As a shocking truth about a couple's families emerges, the two lovers discover they are not so different from each other. Tessa is no longer the sweet, simple, good girl she was when she met Hardin — any more than he is the cruel, moody boy she fell so hard for.",
+            "poster_path": "/6b7swg6DLqXCO3XUsMnv6RwDMW2.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+              10749,
+              18
+            ],
+            "popularity": 1387.147,
+            "release_date": "2022-08-24",
+            "video": false,
+            "vote_average": 6.464,
+            "vote_count": 83
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/kaoTwHrJDmCPDLriN68pjlgx4R.jpg",
+            "id": 614934,
+            "title": "Elvis",
+            "original_language": "en",
+            "original_title": "Elvis",
+            "overview": "The life story of Elvis Presley as seen through the complicated relationship with his enigmatic manager, Colonel Tom Parker.",
+            "poster_path": "/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+              18,
+              36,
+              10402
+            ],
+            "popularity": 363.171,
+            "release_date": "2022-06-22",
+            "video": false,
+            "vote_average": 7.838,
+            "vote_count": 1537
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+            "id": 634649,
+            "title": "Spider-Man: No Way Home",
+            "original_language": "en",
+            "original_title": "Spider-Man: No Way Home",
+            "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+            "poster_path": "/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+              28,
+              12,
+              878
+            ],
+            "popularity": 1185.181,
+            "release_date": "2021-12-15",
+            "video": false,
+            "vote_average": 8.038,
+            "vote_count": 15215
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/8d4gNr2WoW8U2AlRMUSrcBxWXNd.jpg",
+            "id": 916605,
+            "title": "The Infernal Machine",
+            "original_language": "en",
+            "original_title": "The Infernal Machine",
+            "overview": "Reclusive and controversial author Bruce Cogburn is drawn out of hiding by an obsessive fan, forcing the novelist to confront a past that he thought he could escape, and to account for events set in motion by his bestseller decades earlier. Cogburn's search for who is behind the manipulation and mental torment he encounters leads to an emotional roller-coaster ride full of fear and danger, where things are not always as clear as they seem to be, and where past deeds can have dire consequences.",
+            "poster_path": "/bSqpOGzaKBdGkBLmcm1JJIVryYy.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+              53
+            ],
+            "popularity": 60.129,
+            "release_date": "2022-09-23",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 10
+          }
+        ],
+        "total_pages": 1000,
+        "total_results": 20000
+      },
+      "genres": "{\"id\":37,\"name\":\"Western\",\"result\":{\"result\":{\"page\":1,\"results\":[{\"adult\":false,\"backdrop_path\":\"/q1NXVYTqSStNQsnKrCvtU6NPzEk.jpg\",\"genre_ids\":[16,35,10751,37],\"id\":892153,\"original_language\":\"en\",\"original_title\":\"Tom and Jerry Cowboy Up!\",\"overview\":\"This time, the rivals team up to help a cowgirl and her brother save their homestead from a greedy land-grabber, and they’re going to need some help! Jerry’s three precocious nephews are all ready for action, and Tom is rounding up a posse of prairie dogs. But can a ragtag band of varmints defeat a deceitful desperado determined to deceive a damsel in distress? No matter what happens with Tom and Jerry in the saddle, it’ll be a rootin’ tootin’ good time!\",\"popularity\":236.306,\"poster_path\":\"/muIaHotSaSUQr0KZCIJOYQEe7y2.jpg\",\"release_date\":\"2022-01-24\",\"title\":\"Tom and Jerry Cowboy Up!\",\"video\":false,\"vote_average\":6.9,\"vote_count\":385},{\"adult\":false,\"backdrop_path\":\"/i5dUmY2xRzgkmjHJYKNj8kPX1Xx.jpg\",\"genre_ids\":[37,28],\"id\":928999,\"original_language\":\"en\",\"original_title\":\"Desperate Riders\",\"overview\":\"After Kansas Red rescues young Billy from a card-game shootout, the boy asks Red for help protecting his family from the outlaw Thorn, who’s just kidnapped Billy’s mother, Carol. As Red and Billy ride off to rescue Carol, they run into beautiful, tough-as-nails Leslie, who’s managed to escape Thorn’s men. The three race to stop Thorn’s wedding to Carol with guns a-blazing - but does she want to be rescued?\",\"popularity\":154.284,\"poster_path\":\"/7pYYGm1dWZGkbJuhcuaHD6nE6k7.jpg\",\"release_date\":\"2022-02-25\",\"title\":\"Desperate Riders\",\"video\":false,\"vote_average\":6,\"vote_count\":45},{\"adult\":false,\"backdrop_path\":\"/jtFy2m7CvOVTYoNTY9arN8DVHFi.jpg\",\"genre_ids\":[16,12,10751,37],\"id\":637693,\"original_language\":\"en\",\"original_title\":\"Spirit Untamed\",\"overview\":\"Lucky Prescott's life is changed forever when she moves from her home in the city to a small frontier town and befriends a wild mustang named Spirit.\",\"popularity\":152.311,\"poster_path\":\"/q4WaFHk9Vp1poc88X1szwFRtYc5.jpg\",\"release_date\":\"2021-05-20\",\"title\":\"Spirit Untamed\",\"video\":false,\"vote_average\":7.4,\"vote_count\":409},{\"adult\":false,\"backdrop_path\":\"/d0mpUFKzoPwF1KsdjHpkkaYSvKm.jpg\",\"genre_ids\":[37],\"id\":618162,\"original_language\":\"en\",\"original_title\":\"The Harder They Fall\",\"overview\":\"Gunning for revenge, outlaw Nat Love saddles up with his gang to take down enemy Rufus Buck, a ruthless crime boss who just got sprung from prison.\",\"popularity\":107.091,\"poster_path\":\"/su9WzL7lwUZPhjH6eZByAYFx2US.jpg\",\"release_date\":\"2021-10-22\",\"title\":\"The Harder They Fall\",\"video\":false,\"vote_average\":6.7,\"vote_count\":782},{\"adult\":false,\"backdrop_path\":\"/b8hPBW0NJmiIVzvQjT3CwIpAdzl.jpg\",\"genre_ids\":[37,16,12,35,10751,18],\"id\":9023,\"original_language\":\"en\",\"original_title\":\"Spirit: Stallion of the Cimarron\",\"overview\":\"As a wild stallion travels across the frontiers of the Old West, he befriends a young human and finds true love with a mare.\",\"popularity\":105.859,\"poster_path\":\"/rXhd4p6tHlgYHqRtn1wdrA2EZwQ.jpg\",\"release_date\":\"2002-05-24\",\"title\":\"Spirit: Stallion of the Cimarron\",\"video\":false,\"vote_average\":7.7,\"vote_count\":3940},{\"adult\":false,\"backdrop_path\":\"/iNYe0BmPDAEQlChNYOfceGPNnq6.jpg\",\"genre_ids\":[28,37,18,14,53],\"id\":20533,\"original_language\":\"en\",\"original_title\":\"Jonah Hex\",\"overview\":\"Gunslinger Jonah Hex is appointed by President Ulysses Grant to track down terrorist Quentin Turnbull, a former Confederate officer determined on unleashing hell on earth. Jonah not only secures freedom by accepting this task, he also gets revenge on the man who slayed his wife and child.\",\"popularity\":91.481,\"poster_path\":\"/1MpWjcCn8M0763QDoxcN0gXrc5q.jpg\",\"release_date\":\"2010-06-18\",\"title\":\"Jonah Hex\",\"video\":false,\"vote_average\":4.9,\"vote_count\":1218},{\"adult\":false,\"backdrop_path\":\"/upOi9aVqPPky7Ba4GsiyFdjc82I.jpg\",\"genre_ids\":[37,28,53],\"id\":887767,\"original_language\":\"en\",\"original_title\":\"Last Shoot Out\",\"overview\":\"Soon after a newlywed learns that her husband had her father shot down, she flees from the Callahan ranch in fear. She's rescued by a gunman who safeguards her at a remote outpost as he staves off her husband's attempts to reclaim his bride.\",\"popularity\":79.57,\"poster_path\":\"/pvEtPxotI3POlVPvNxgrHJuDXfe.jpg\",\"release_date\":\"2021-12-03\",\"title\":\"Last Shoot Out\",\"video\":false,\"vote_average\":6.5,\"vote_count\":128},{\"adult\":false,\"backdrop_path\":\"/fQlfObqEH8Jam5WQrLUMngbEroZ.jpg\",\"genre_ids\":[37,28],\"id\":859860,\"original_language\":\"en\",\"original_title\":\"Catch the Bullet\",\"overview\":\"U.S. marshal Britt MacMasters returns from a mission to find his father wounded and his son kidnapped by the outlaw Jed Blake. Hot on their trail, Britt forms a posse with a gunslinging deputy and a stoic Pawnee tracker. But Jed and Britt tread dangerously close to the Red Desert’s Sioux territory.\",\"popularity\":77.785,\"poster_path\":\"/7PoomidF9HlMKXcAyOJ87lGkhSp.jpg\",\"release_date\":\"2021-09-10\",\"title\":\"Catch the Bullet\",\"video\":false,\"vote_average\":5.7,\"vote_count\":86},{\"adult\":false,\"backdrop_path\":\"/6MCVqErhPC0p6RkzZsLuIb6LZ1L.jpg\",\"genre_ids\":[18,37],\"id\":68718,\"original_language\":\"en\",\"original_title\":\"Django Unchained\",\"overview\":\"With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.\",\"popularity\":69.184,\"poster_path\":\"/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg\",\"release_date\":\"2012-12-25\",\"title\":\"Django Unchained\",\"video\":false,\"vote_average\":8.2,\"vote_count\":23039},{\"adult\":false,\"backdrop_path\":\"/f1jJPQ0RhgSOOfBprCJd9ZJMbet.jpg\",\"genre_ids\":[28,878,53,37],\"id\":49849,\"original_language\":\"en\",\"original_title\":\"Cowboys & Aliens\",\"overview\":\"A stranger stumbles into the desert town of Absolution with no memory of his past and a futuristic shackle around his wrist. With the help of mysterious beauty Ella and the iron-fisted Colonel Dolarhyde, he finds himself leading an unlikely posse of cowboys, outlaws, and Apache warriors against a common enemy from beyond this world in an epic showdown for survival.\",\"popularity\":63.982,\"poster_path\":\"/9uZsGCP4rvOHVGCpMpYq5gNCuNI.jpg\",\"release_date\":\"2011-07-29\",\"title\":\"Cowboys & Aliens\",\"video\":false,\"vote_average\":5.6,\"vote_count\":4421},{\"adult\":false,\"backdrop_path\":\"/6B2tOYhaIpv3kPKBkvdebX624Gw.jpg\",\"genre_ids\":[16,35,10751,37,12],\"id\":44896,\"original_language\":\"en\",\"original_title\":\"Rango\",\"overview\":\"When Rango, a lost family pet, accidentally winds up in the gritty, gun-slinging town of Dirt, the less-than-courageous lizard suddenly finds he stands out. Welcomed as the last hope the town has been waiting for, new Sheriff Rango is forced to play his new role to the hilt.\",\"popularity\":62.53,\"poster_path\":\"/h9GJiKuuJ650dte0gyzLD3ILcIh.jpg\",\"release_date\":\"2011-03-02\",\"title\":\"Rango\",\"video\":false,\"vote_average\":6.8,\"vote_count\":5469},{\"adult\":false,\"backdrop_path\":\"/8GXri7UnwE7dVNfUAZVDn7Z8UBZ.jpg\",\"genre_ids\":[12,28,37],\"id\":333484,\"original_language\":\"en\",\"original_title\":\"The Magnificent Seven\",\"overview\":\"Looking to mine for gold, greedy industrialist Bartholomew Bogue seizes control of the Old West town of Rose Creek. With their lives in jeopardy, Emma Cullen and other desperate residents turn to bounty hunter Sam Chisolm for help. Chisolm recruits an eclectic group of gunslingers to take on Bogue and his ruthless henchmen. With a deadly showdown on the horizon, the seven mercenaries soon find themselves fighting for more than just money once the bullets start to fly.\",\"popularity\":59.873,\"poster_path\":\"/ezcS78TIjgr85pVdaPDd2rSPVNs.jpg\",\"release_date\":\"2016-09-14\",\"title\":\"The Magnificent Seven\",\"video\":false,\"vote_average\":6.4,\"vote_count\":5194},{\"adult\":false,\"backdrop_path\":\"/3uM41OT0RfBkE6Gb6U89LEskJBr.jpg\",\"genre_ids\":[37,18,12],\"id\":281957,\"original_language\":\"en\",\"original_title\":\"The Revenant\",\"overview\":\"In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.\",\"popularity\":56.718,\"poster_path\":\"/wkA03WX3IdHYMX2gIxaCwqowQX.jpg\",\"release_date\":\"2015-12-25\",\"title\":\"The Revenant\",\"video\":false,\"vote_average\":7.5,\"vote_count\":16151},{\"adult\":false,\"backdrop_path\":\"/qksfforuQFh0faMQKgXIa6lCEh0.jpg\",\"genre_ids\":[28,12,37],\"id\":57201,\"original_language\":\"en\",\"original_title\":\"The Lone Ranger\",\"overview\":\"The Texas Rangers chase down a gang of outlaws led by Butch Cavendish, but the gang ambushes the Rangers, seemingly killing them all. One survivor is found, however, by an American Indian named Tonto, who nurses him back to health. The Ranger, donning a mask and riding a white stallion named Silver, teams up with Tonto to bring the unscrupulous gang and others of that ilk to justice.\",\"popularity\":55.403,\"poster_path\":\"/p3OvQFa5lhbwSAhPygwnlugie1d.jpg\",\"release_date\":\"2013-07-03\",\"title\":\"The Lone Ranger\",\"video\":false,\"vote_average\":6.1,\"vote_count\":5232},{\"adult\":false,\"backdrop_path\":\"/x4biAVdPVCghBlsVIzB6NmbghIz.jpg\",\"genre_ids\":[37],\"id\":429,\"original_language\":\"it\",\"original_title\":\"Il buono, il brutto, il cattivo\",\"overview\":\"While the Civil War rages on between the Union and the Confederacy, three men – a quiet loner, a ruthless hitman, and a Mexican bandit – comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.\",\"popularity\":55.111,\"poster_path\":\"/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg\",\"release_date\":\"1966-12-23\",\"title\":\"The Good, the Bad and the Ugly\",\"video\":false,\"vote_average\":8.5,\"vote_count\":6867},{\"adult\":false,\"backdrop_path\":\"/6FhmSHAmSjm5FGpLe2xqAl7ekFP.jpg\",\"genre_ids\":[12,14,28,37,53],\"id\":46528,\"original_language\":\"en\",\"original_title\":\"The Warrior's Way\",\"overview\":\"A warrior-assassin is forced to hide in a small town in the American Badlands after refusing a mission.\",\"popularity\":52.352,\"poster_path\":\"/kfloVZk0uGkSftjD6DI8ZWUsrrI.jpg\",\"release_date\":\"2010-12-01\",\"title\":\"The Warrior's Way\",\"video\":false,\"vote_average\":6.6,\"vote_count\":469},{\"adult\":false,\"backdrop_path\":\"/1yAtke4amRvHlzj4nzDtwOC2hJl.jpg\",\"genre_ids\":[37,35],\"id\":347969,\"original_language\":\"en\",\"original_title\":\"The Ridiculous 6\",\"overview\":\"When his long-lost outlaw father returns, Tommy \\\"White Knife\\\" Stockburn goes on an adventure-filled journey across the Old West with his five brothers.\",\"popularity\":41.865,\"poster_path\":\"/kPc80jywR5Nm2KIQjkY5i4VXSx4.jpg\",\"release_date\":\"2015-12-11\",\"title\":\"The Ridiculous 6\",\"video\":false,\"vote_average\":5.1,\"vote_count\":1185},{\"adult\":false,\"backdrop_path\":\"/gAsHuCQMN7mv4uFIvM4ACQ09hPr.jpg\",\"genre_ids\":[18,37],\"id\":600583,\"original_language\":\"en\",\"original_title\":\"The Power of the Dog\",\"overview\":\"A domineering but charismatic rancher wages a war of intimidation on his brother's new wife and her teen son, until long-hidden secrets come to light.\",\"popularity\":39.027,\"poster_path\":\"/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg\",\"release_date\":\"2021-11-17\",\"title\":\"The Power of the Dog\",\"video\":false,\"vote_average\":6.8,\"vote_count\":1996},{\"adult\":false,\"backdrop_path\":\"/orXMq2jZy8wFmePv7zXS2Kor7Ug.jpg\",\"genre_ids\":[37,27],\"id\":294963,\"original_language\":\"en\",\"original_title\":\"Bone Tomahawk\",\"overview\":\"During a shootout in a saloon, Sheriff Hunt injures a suspicious stranger. The doctor's assistant, wife of the local foreman, tends to him in prison. That night, the town is attacked and they both disappear—only the arrow of a cannibal tribe is found. Hunt and a few of his men go in search of the prisoner and the foreman's wife.\",\"popularity\":37.354,\"poster_path\":\"/4MmTHpn2Y8emqvBgvOjufImUmKZ.jpg\",\"release_date\":\"2015-10-23\",\"title\":\"Bone Tomahawk\",\"video\":false,\"vote_average\":6.8,\"vote_count\":1719},{\"adult\":false,\"backdrop_path\":\"/8LhafIrfYQDAv7g5gvRdoKOQ69E.jpg\",\"genre_ids\":[18,37],\"id\":266285,\"original_language\":\"da\",\"original_title\":\"The Salvation\",\"overview\":\"In 1870s America, a peaceful American settler kills his family's murderer which unleashes the fury of a notorious gang leader. His cowardly fellow townspeople then betray him, forcing him to hunt down the outlaws alone.\",\"popularity\":33.99,\"poster_path\":\"/xQsv3OI8UT6s9Rn3C0WxO24bnEx.jpg\",\"release_date\":\"2014-05-22\",\"title\":\"The Salvation\",\"video\":false,\"vote_average\":6.4,\"vote_count\":681}],\"total_pages\":392,\"total_results\":7832}}}"
+    }
+  }
+}
